@@ -43,13 +43,13 @@ about: >
 
   Hello,
 
-  My name is Jason and I am a mobile developer in Hong Kong.
+  My name is Jason and I am a mobile developer base in Melbourne.
   This page will share interesting tech topic and also some tips and guide on deveolping.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  You may contact me [through my email](mailto:nok10211021@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40Jason_Wonggg) if you have any questions or would like to bring up any issues.
 
 #-------------------------------
 # Work Section
@@ -65,10 +65,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'twitter', link: 'https://twitter.com/Jason_Wonggg'}
+- {icon: 'github', link: 'https://github.com/shunnokw'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jason-wong-208715163/'}
+- {icon: 'envelope', link: 'mailto:nok10211021@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
